@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8">
 <Defect ID>119</Defect ID>
 <Summary>Login:Error messages in the login form are displayed in English</Summary>
 <Enviroments>All browsers/devices</Enviroments>
